@@ -1,0 +1,3 @@
+[INFO] 2026-04-01 10:00:23 Server started
+[ERROR] 2026-04-01 10:01:10 DB connection failed
+[INFO] 2026-04-01 10:02:00 GET /api/posts 200
